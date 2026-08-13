@@ -1,6 +1,6 @@
 # Hi there, I'm Ranadigvijaysinha! 👋
 
-I'm a 2nd-year B.Tech student at Dr. Babasaheb Ambedkar Technological University, passionate about building AI-driven solutions and full-stack applications.
+I'm a 3rd-year B.Tech student at Dr. Babasaheb Ambedkar Technological University, passionate about building AI-driven solutions and full-stack applications.
 
 ### 👨‍💻 About Me
 - 🔭 Currently exploring: **Agentic AI, LLM Integration, and System Design.**
